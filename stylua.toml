@@ -1,0 +1,6 @@
+
+[options]
+ignore = [
+  "**/fxmanifest.lua",
+  "**/__resource.lua"
+]
